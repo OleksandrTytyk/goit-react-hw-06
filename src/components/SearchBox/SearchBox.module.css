@@ -1,0 +1,12 @@
+.searchBoxText {
+  font-size: 18px;
+  color: black;
+}
+.searchBoxInput {
+  width: 460px;
+  border-radius: 5px;
+  padding: 10px 20px;
+
+  font-size: 14px;
+  line-height: 1.5;
+}
